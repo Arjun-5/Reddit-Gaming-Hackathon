@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta charset="UTF-8" />
+    <title>Dreambound: The Eternal Thread</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Prologue Section -->
+    <div id="prologue" class="section">
+      <h1>Dreambound: The Eternal Thread</h1>
+      <p>
+        Welcome, Dream Cartographer. You are tasked with piecing together the fragments of Elara's memories, lost across the dreamscape. Only by navigating the threads of fate and solving the puzzles of her past can you restore balance to her mind.
+      </p>
+      <button id="start-game">Begin Your Journey</button>
+    </div>
+
+    <!-- Gameplay Section -->
+    <div id="gameplay" class="section hidden">
+      <h2 id="level-title">Level 1: The Shimmering Meadow</h2>
+      <canvas id="game-canvas" width="800" height="600"></canvas>
+      <div class="game-ui">
+        <p>Threads Collected: <span id="thread-count">0</span></p>
+        <p id="level-description">
+          Collect the glowing threads scattered across the meadow. Avoid the illusions that will drain your energy.
+        </p>
+        <button id="next-level" class="hidden">Next Level</button>
+      </div>
+    </div>
+
+    <!-- Epilogue Section -->
+    <div id="epilogue" class="section hidden">
+      <h1>Dream Complete</h1>
+      <p>
+        Elara awakens, her memories whole once more. Thanks to your efforts, she is ready to face the challenges of the waking world. The balance of her mind is restored, and the dreamscape fades into tranquility.
+      </p>
+      <button id="restart-game">Restart</button>
+    </div>
+
+    <script type="application/javascript" src="script.js"></script>
+  </body>
+</html>
