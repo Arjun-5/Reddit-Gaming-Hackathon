@@ -42,8 +42,8 @@ You can modify these assets to create an even more personalized gaming experienc
 🌟 Join the Adventure 🌟
 The Mystic Treasure Hole awaits your strategic mastery. Will you be the one to pocket the most coins and claim the ultimate treasure? 🏅💰
 
-🔗 🎮 Try the Reddit post Game! (https://www.reddit.com/r/redditPuzzleHackathon/?playtest=hackgametest) 🚀
+[🔗 🎮 Try the Reddit post Game!] (https://www.reddit.com/r/redditPuzzleHackathon/?playtest=hackgametest) 🚀
 
-🔗 🎮 Try the playcanvas Game! (https://playcanv.as/p/4chGKRag/) 🚀
+[🔗 🎮 Try the playcanvas Game!] (https://playcanv.as/p/4chGKRag/) 🚀
 
-🔗 🎮 Checkout the Devpost Details! (https://devpost.com/software/mystic-treasure-hole) 🚀
+[🔗 🎮 Checkout the Devpost Details!] (https://devpost.com/software/mystic-treasure-hole) 🚀
