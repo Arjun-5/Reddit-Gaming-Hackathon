@@ -45,3 +45,5 @@ The Mystic Treasure Hole awaits your strategic mastery. Will you be the one to p
 🔗 🎮 Try the Reddit post Game! (https://www.reddit.com/r/redditPuzzleHackathon/?playtest=hackgametest) 🚀
 
 🔗 🎮 Try the playcanvas Game! (https://playcanv.as/p/4chGKRag/) 🚀
+
+🔗 🎮 Checkout the Devpost Details! (https://devpost.com/software/mystic-treasure-hole) 🚀
