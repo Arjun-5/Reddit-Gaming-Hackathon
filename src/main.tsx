@@ -24,7 +24,7 @@ Devvit.configure({
 
 // Add a custom post type to Devvit
 Devvit.addCustomPostType({
-  name: 'Webview Example',
+  name: 'Mystic Treasure Hole',
   height: 'tall',
   render: (context) => {
     // Load username with `useAsync` hook
@@ -70,8 +70,7 @@ Devvit.addCustomPostType({
       context.ui.webView.postMessage('myWebView', {
         type: 'initialData',
         data: {
-          username: username,
-          currentCounter: counter,
+          username: username
         },
       });
     };
@@ -79,33 +78,27 @@ Devvit.addCustomPostType({
     // Render the custom post type
     return (
       <vstack grow padding="small">
+
         <vstack
           grow={!webviewVisible}
           height={webviewVisible ? '0%' : '100%'}
-          alignment="middle center"
-        >
+          alignment="middle center">
+          <image url="images/Board_EN.png" imageHeight={256} imageWidth={256}/>
           <text size="xlarge" weight="bold">
-            Example App
+          Mystic Treasure Hole
           </text>
           <spacer />
           <vstack alignment="start middle">
             <hstack>
-              <text size="medium">Username:</text>
+              <text size="medium">Player Name :</text>
               <text size="medium" weight="bold">
                 {' '}
                 {username ?? ''}
               </text>
             </hstack>
-            <hstack>
-              <text size="medium">Current counter:</text>
-              <text size="medium" weight="bold">
-                {' '}
-                {counter ?? ''}
-              </text>
-            </hstack>
           </vstack>
           <spacer />
-          <button onPress={onShowWebviewClick}>Launch App</button>
+          <button onPress={onShowWebviewClick}>Launch Game</button>
         </vstack>
         <vstack grow={webviewVisible} height={webviewVisible ? '100%' : '0%'}>
           <vstack border="thick" borderColor="black" height={webviewVisible ? '100%' : '0%'}>
