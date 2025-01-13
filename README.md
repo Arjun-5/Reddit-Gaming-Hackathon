@@ -1,5 +1,7 @@
-🏆 Mystic Treasure Hole 🪙
-Welcome to Mystic Treasure Hole, where coins and strategy are intertwined in a race to claim the ultimate treasure! Outwit your opponent by pocketing coins, using your wits, and unleashing special glowing powers. In this thrilling game, every move counts, and only one coin will remain in the end. Do you have what it takes to emerge victorious? 🏅
+# 🏆 **Mystic Treasure Hole** 🪙  
+
+Welcome to **Mystic Treasure Hole**, where coins and strategy are intertwined in a race to claim the ultimate treasure! Outwit your opponent by pocketing coins, using your wits, and unleashing special glowing powers. In this thrilling game, every move counts, and only **one coin** will remain in the end. Do you have what it takes to emerge victorious? 🏅
+
 
 🎮 How to Play
 
